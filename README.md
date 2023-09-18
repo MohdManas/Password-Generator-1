@@ -38,7 +38,7 @@ The Password Generator project is a web application that allows users to generat
 
 * The generator's user interface is often designed to be responsive, ensuring that it functions well on various devices, including desktop computers, tablets, and smartphones.
 
-# Screenshots:
+# Screenshots🤗:
 
 ![127 0 0 1_5500_ (2)](https://github.com/iamvijay98/Password-Generator/assets/133564952/313129a2-7db5-4695-ad34-766de7c1049e)
 
