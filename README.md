@@ -19,3 +19,15 @@
 **Responsive Design:**
 
 * The generator's user interface is often designed to be responsive, ensuring that it functions well on various devices, including desktop computers, tablets, and smartphones.
+
+# Screenshots:
+
+![127 0 0 1_5500_ (2)](https://github.com/iamvijay98/Password-Generator/assets/133564952/313129a2-7db5-4695-ad34-766de7c1049e)
+
+![127 0 0 1_5500_ (3)](https://github.com/iamvijay98/Password-Generator/assets/133564952/bd53ebd1-ea34-4481-8268-00855af10313)
+
+![127 0 0 1_5500_ (4)](https://github.com/iamvijay98/Password-Generator/assets/133564952/7f50878b-7dc4-4f58-ade6-3ba6f576e8ce)
+
+![127 0 0 1_5500_ (5)](https://github.com/iamvijay98/Password-Generator/assets/133564952/a2f9a456-0d05-4f01-b696-cd4394812854)
+
+
